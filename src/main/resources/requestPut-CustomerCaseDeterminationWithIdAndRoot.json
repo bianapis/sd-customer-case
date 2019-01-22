@@ -1,0 +1,15 @@
+{
+  "customerCaseType" : "disputed charges",
+  "customerCaseRootCauseRecord" : {},
+  "customerAgreement" : "customerAgreement",
+  "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+  "customerCaseReference" : "CCR768716",
+  "customerCaseRecord" : {},
+  "productInstanceReference" : "PIR745356",
+  "customerCaseDeterminationTaskRecord" : {},
+  "customerReference" : "CCR768716",
+  "customerCaseStatus" : "customerCaseStatus",
+  "customerAgreementReference" : "CAR789712",
+  "customerCaseDeterminationTaskReference" : "CCDTR780701",
+  "customerCaseDeterminationRecord" : {}
+}

@@ -1,0 +1,19 @@
+{
+  "dateTime" : "09-22-2018",
+  "transactionRecord" : {},
+  "customerCaseType" : "disputed charges",
+  "customerCaseRootCauseRecord" : {},
+  "customerContactRecordReference" : "CCRR725563",
+  "customerContactRecord" : {},
+  "transactionReference" : "TR790040",
+  "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+  "caseLocation" : "caseLocation",
+  "customerCaseAnalysisTaskRecord" : {},
+  "customerCaseReference" : "CCR768716",
+  "customerCaseRecord" : {},
+  "customerCaseAnalysisTaskReference" : "CCATR738173",
+  "productInstanceReference" : "PIR745356",
+  "employeeBusinessUnitReference" : "EUR732106",
+  "customerReference" : "CCR768716",
+  "customerCaseStatus" : "customerCaseStatus"
+}

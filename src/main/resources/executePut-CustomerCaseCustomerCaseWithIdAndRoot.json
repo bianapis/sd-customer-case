@@ -1,0 +1,15 @@
+{
+  "dateTime" : "09-22-2018",
+  "transactionRecord" : {},
+  "customerCaseType" : "disputed charges",
+  "customerContactRecordReference" : "CCRR725563",
+  "transactionReference" : "TR790040",
+  "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+  "caseLocation" : "caseLocation",
+  "customerCaseReference" : "CCR768716",
+  "customerCaseRecord" : {},
+  "productInstanceReference" : "PIR745356",
+  "employeeBusinessUnitReference" : "EUR732106",
+  "customerReference" : "CCR768716",
+  "customerCaseStatus" : "customerCaseStatus"
+}
